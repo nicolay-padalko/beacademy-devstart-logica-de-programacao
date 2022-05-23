@@ -1,2 +1,2 @@
-# beacademy-devstart-logica-de-programacao
+# beacademy-devstart-logicadeprogramacao
  logica de programção
