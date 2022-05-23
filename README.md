@@ -1,2 +1,2 @@
 # beacademy-devstart-logicadeprogramacao
- logica de programção
+Exercicios de logica de programção em portugol usando o VisualG.
