@@ -20,3 +20,11 @@ Exercícios realizados para a Sprint 4 no Curso de Lógica de Programação
 [Resolução - ex aula 09 - operações](./resolvidos/09-OPERACOES.ALG)
 
 [Resolução - ex aula 09 - senha](./resolvidos/09-SENHA.ALG)
+
+[Resolução - ex aula 10 - idades](./resolvidos/10-IDADES.ALG)
+
+[Resolução - ex aula 10 - saques](./resolvidos/10-SAQUES.ALG)
+
+[Resolução - ex aula 10 - senha](./resolvidos/10-SENHA.ALG)
+
+[Resolução - ex aula 10 - soma](./resolvidos/10-SOMA.ALG)
