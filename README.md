@@ -34,3 +34,7 @@ Exercícios realizados para a Sprint 4 no Curso de Lógica de Programação
 [Resolução - ex aula 11 - clientes](./resolvidos/11-CLIENTES.ALG)
 
 [Resolução - ex aula 11 - soma](./resolvidos/11-PRODUTOS.ALG)
+
+[Resolução - ex aula 12 - matriz quadrada](./resolvidos/12-MATRIZ-QUADRADA.ALG)
+
+[Resolução - ex aula 12 - soma colunas](./resolvidos/12-SOMA-COLUNAS.ALG)
