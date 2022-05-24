@@ -8,7 +8,7 @@ Var
 
 
 Inicio
-   j <- 1;
+
    principal <- 0
    secundaria <- 0
 
