@@ -1,2 +1,5 @@
 # beacademy-devstart-logicadeprogramacao
-Exercicios de logica de programção em portugol usando o VisualG.
+
+
+Intro
+Exercícios realizados em conjunto para a Sprint 4 no Curso de Lógica de Programação
