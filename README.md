@@ -3,6 +3,8 @@
 Intro
 Exercícios realizados para a Sprint 4 no Curso de Lógica de Programação
 
+[Resolução - ex aula 05 - operadores](./resolvidos/05-OPERADORES.ALG)
+
 [Resolução - ex aula 06 - idade](./resolvidos/06-IDADE.ALG)
 
 [Resolução - ex aula 06 - IMC](./resolvidos/06-IMC.ALG)
